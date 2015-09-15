@@ -34,6 +34,9 @@
         },
         {
             "name": "Slowpoke"
+        },
+        {
+            "name": "Oddish"
         }
     ],
     "names": [
@@ -193,6 +196,11 @@
             "opening": "You're an ugly looking Trainer. Ha, I bet you have weak Pokémon! Battle me loser!",
             "win": "Haha! I knew you were weak! You're pathetic!",
             "lose": "W-What! This is impossible! How do you have such cool Pokémon!?"
+        },
+        {
+            "opening": "I just lost, so I'm trying to find more Pokémon. Wait! You look weak! Come on, let's battle!",
+            "win": "My Pokémon are in the top percentage of pokemon!",
+            "lose": "Ugh. I don't have any more Pokémon."
         }
     ]
 }
