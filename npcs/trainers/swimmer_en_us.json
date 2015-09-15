@@ -2,7 +2,7 @@
     "data": {
         "trainerType": "Swimmer",
         "minLevel": 13,
-        "maxLevel": 18,
+        "maxLevel": 25,
         "minPartyPokemon": 1,
         "maxPartyPokemon": 6,
         "winnings": 18
@@ -25,7 +25,31 @@
         },
         {
             "name": "Shellder"
-        }
+        },
+        {
+            "name": "Totodile"
+        },
+        {
+            "name": "Azumarill"
+        },
+        {
+            "name": "Oshawott" 
+        },
+        {
+            "name": "Wartortle"
+        },
+        {
+            "name": "Croconaw"
+        },
+        {
+            "name": "Dewott"
+        },
+        {
+            "name": "Slowbro"
+        },
+        {
+            "name": "Corphish"
+        },
     ],
     "names": [
         {
@@ -160,6 +184,11 @@
             "opening": "Aren't water Pokémon beautiful?",
             "win": "Get water Pokémon if you want to be strong!",
             "lose": "Your Pokémon are too strong!"
+        },
+        {
+            "opening": "Hey you! Quit splashing me!",
+            "win": "Wow! That battle went swimmingly!",
+            "lose": "Defeat gives me such a sinking feeling..."
         }
     ]
 }
